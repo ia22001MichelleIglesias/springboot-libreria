@@ -1,1 +1,1 @@
-CREATE DATABASE demo_db WITH OWNER postgres;
+
